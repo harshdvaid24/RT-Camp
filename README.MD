@@ -3,7 +3,7 @@
 
 # RT-Camp Facebook Assignment - Memories
 
-   Memories is a Facebook based Web Application where user can login with facebook and check out their albums and download as a ZIP File  them and if they wish they can login through google account acount and store album's in Google-Drive.
+   Memories is a Facebook based Web Application where user can login with facebook and check out their albums and download as a ZIP File  them and if they wish they can login through google account and store album's in Google-Drive.
    
   [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/harshdvaid24/RT/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/harshdvaid24/RT/?branch=master)
   
